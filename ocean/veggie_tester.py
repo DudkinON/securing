@@ -3,7 +3,7 @@ import json
 import sys
 
 print "Running Endpoint Tester....\n"
-address = 'http://localhost:5000'
+address = 'http://localhost:8000'
 
 # GET AUTH CODE
 client_url = address + "/clientOAuth"
