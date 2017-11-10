@@ -1,4 +1,4 @@
-# The securing api 
+# Securing api 
 For Udacity course _"Full Stack Web Developer Nanodegree Program"_.
 This collection code which help make application more secure.
 
